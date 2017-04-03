@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">403 SQLite</string>
+    <string name="save">SAVE</string>
+    <string name="update">UPDATE</string>
+    <string name="remove">REMOVE</string>
+    <string name="load">LOAD</string>
+    <string name="name">Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="age">Age</string>
+    <string name="desciption">Desciption</string>
+    <string name="address">Address</string>
+</resources>
